@@ -1,0 +1,1 @@
+enum WillPopResult { pop, switchSearchPageMode }

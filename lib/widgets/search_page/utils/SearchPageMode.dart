@@ -1,0 +1,1 @@
+enum SearchPageMode { searching, editingSearchQuery }
